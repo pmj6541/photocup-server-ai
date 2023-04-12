@@ -41,4 +41,5 @@ FCOS에서 사용한 centerness 계산식은 다음과 같다. 위 식을 통해
 
 
 참고문헌:
+
 [1] Tian, Zhi, et al. "Fcos: Fully convolutional one-stage object detection." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
