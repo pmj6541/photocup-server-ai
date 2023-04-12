@@ -38,3 +38,7 @@ FCOS에서 사용한 centerness 계산식은 다음과 같다. 위 식을 통해
 로 변수를 지정하여 centerness를 계산한다.
 그 뒤, 검출된 객체들의 centerness를 비교하여 가장 높은 값의 centerness를 지닌 객체를 Main Class로 선정한다.
 해당 기능은 Object Detection Process 중, Object Detection Model을 통해 객체 검출을 한 뒤, Main Class를 판단하기 위한 Process로 추가된다.
+
+
+참고문헌:
+[1] Tian, Zhi, et al. "Fcos: Fully convolutional one-stage object detection." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
