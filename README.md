@@ -40,6 +40,6 @@ FCOS에서 사용한 centerness 계산식은 다음과 같다. 위 식을 통해
 해당 기능은 Object Detection Process 중, Object Detection Model을 통해 객체 검출을 한 뒤, Main Class를 판단하기 위한 Process로 추가된다.
 
 
-참고문헌:
+### 참고문헌:
 
 [1] Tian, Zhi, et al. "Fcos: Fully convolutional one-stage object detection." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
